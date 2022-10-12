@@ -41,3 +41,4 @@ vcsInfo:
   branch: ""
 
 runtime: js
+connectsTo: sbfo-bff
